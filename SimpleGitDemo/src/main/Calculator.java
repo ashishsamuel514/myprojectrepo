@@ -13,6 +13,9 @@ public class Calculator {
 		      System.out.println(num1-num2);
 		      add(10,20);
 		  }
+	public static void pro(int num1,int num2){
+	      System.out.println(num1*num2);
+	  }
 
 	
 
