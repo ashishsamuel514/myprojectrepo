@@ -11,10 +11,12 @@ public class Calculator {
 		  }
 	public static void sub(int num1,int num2){
 		      System.out.println(num1-num2);
-		      add(10,20);
 		  }
 	public static void pro(int num1,int num2){
 	      System.out.println(num1*num2);
+	  }
+	public static void mod(int num1,int num2){
+	      System.out.println(num1%num2);
 	  }
 
 	
