@@ -11,14 +11,32 @@ public class Calculator {
 		  }
 	public static void sub(int num1,int num2){
 		      System.out.println(num1-num2);
-		      add(10,20);
 		  }
 	public static void pro(int num1,int num2){
 	      System.out.println(num1*num2);
 	  }
+
+	public static void mod(int num1,int num2){
+	      System.out.println(num1%num2);
+	}
 	public static void square(int num1){
 	      System.out.println(num1*num1);
 	}
+
+	  }
+	public static void cube(int num1){
+	      System.out.println(num1*num1*num1);
+
+	  }
+	public static void masterfun1(int num1){
+	      System.out.println(num1*num1*num1);
+
+	  }
+	public static void masterfun2(int num1){
+	      System.out.println(num1*num1*num1);
+
+	  }
+
 
 	
 
